@@ -1,2 +1,4 @@
 # Display-iot
- Display-IoT usando ESP-32
+
+Tutorial de utilização ainda virá.
+Outra funcionalidades serão adicionadas eventualmente
